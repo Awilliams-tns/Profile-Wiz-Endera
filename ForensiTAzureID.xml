@@ -1316,4 +1316,9 @@
         <ObjectId>578895a5-e439-49f0-90d2-5c5597fe6bea</ObjectId>
         <DisplayName>Xiang Li</DisplayName>
     </User>
+        <User>
+        <UserPrincipalName>blegros@enderacorp.com</UserPrincipalName>
+        <ObjectId>2b0dd396-c4ca-477d-b21f-d1df00747f89</ObjectId>
+        <DisplayName>Benjamin LeGros</DisplayName>
+    </User>
 </ForensiTAzureID>
