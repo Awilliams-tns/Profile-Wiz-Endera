@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<ForensiTAzureID ObjectId="a4b15abc-ae00-4c67-b5b8-c19523a77ba6" Name="CERTIFIEDWASTESOLUTIONS.onmicrosoft.com CERTIFIEDWASTESOLUTIONS.COM dcenv.com" DisplayName="Certified Enterprises">
+    <User>
+        <UserPrincipalName>abaker@dcenv.com</UserPrincipalName>
+        <ObjectId>5fd36a07-338a-4dad-ad45-d023c01d4f3a</ObjectId>
+        <DisplayName>Ashlee Baker</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>abenitez@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>92796661-8eb6-48ab-9541-0547d1bd603f</ObjectId>
+        <DisplayName>Alejandro Benitez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>admin@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>722bad40-531d-4397-8fdb-48512edaa0ec</ObjectId>
+        <DisplayName>Office 365 Admin</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>afogel@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>2d6aaf2a-0067-40dd-89f3-214138062444</ObjectId>
+        <DisplayName>Alex Fogel</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>alara@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>6af16d04-0d13-420a-9394-7d2570bbd431</ObjectId>
+        <DisplayName>Asuka Lara</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>aSolares@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>cb9615bd-326c-4c22-810c-de1b24b55867</ObjectId>
+        <DisplayName>** Anais Solares</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>BackScale@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>f2e0591e-8d0b-4093-acf8-11951cb819c8</ObjectId>
+        <DisplayName>Back Scale</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bchea@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>5395d6cd-fe3c-4c03-87f1-c784558ce2f3</ObjectId>
+        <DisplayName>Betty Chea</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>brian@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>caa98eff-d8d9-421a-ab2b-92fafc92fcf0</ObjectId>
+        <DisplayName>Brian McGuinn</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>careers@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>79e8a963-f12c-4181-af47-d5cbcf279df9</ObjectId>
+        <DisplayName>Careers</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ccastiglia@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>bff84312-89e5-42b2-92c4-002176a9fdcf</ObjectId>
+        <DisplayName>**Cindy Castiglia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ccortez@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>eb2d6610-71f8-4c11-b66b-1d567f96c51c</ObjectId>
+        <DisplayName>Claudia Cortez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>chato@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>1a1c6b59-f819-43a0-b6ed-b2aef766f2d1</ObjectId>
+        <DisplayName>Chato Gamez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>chris@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>839c2d7e-25a1-4389-b218-a5538a58d0f8</ObjectId>
+        <DisplayName>Chris Quinlan</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cquintor@CERTIFIEDWASTESOLUTIONS.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>ada152dd-4e90-456c-9d19-ca8d85ac2203</ObjectId>
+        <DisplayName>Chiquita Quintor</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cvillalva@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>33a9b573-c102-49e6-aff2-12b4dddd72fa</ObjectId>
+        <DisplayName>** Colin Villalva</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cwsadmin@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>9e6c1065-09bb-4455-9505-ebadd9b33c04</ObjectId>
+        <DisplayName>CWS Admin</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>dberry@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>a466f4c5-44a7-4598-844c-e835a029f540</ObjectId>
+        <DisplayName>** Deborah Berry</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>deana@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>11bf05cf-5516-4658-b1bd-b30d7290e68a</ObjectId>
+        <DisplayName>Deana Jensen</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>debbie@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>95b68eec-bc8d-4ba3-8ccd-aecf50eb2e67</ObjectId>
+        <DisplayName>Debbie Cruz</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>dispatch@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>50500139-67ad-4b44-95cc-c47fc0d85eb4</ObjectId>
+        <DisplayName>CWS Dispatch</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>divina@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>635ceb01-6a8c-441b-9992-b8113aca5c45</ObjectId>
+        <DisplayName>Divina Rodriguez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>dstueland@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>5824f56e-a353-45df-8752-678dbd051932</ObjectId>
+        <DisplayName>Dana Stueland</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>dzalfa@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>48c4af9e-9484-42c6-8618-d13900aa7ca7</ObjectId>
+        <DisplayName>** David Zalfa</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ecampuzano@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>1a246222-6a3f-4ab3-8ea6-89e0b784d7e2</ObjectId>
+        <DisplayName>Chino Campuzano</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>edawson@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>ee314092-c587-4af6-84b9-bc05041ff0ae</ObjectId>
+        <DisplayName>Erin Dawson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>erica@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>7fbf418d-8e73-4a02-80f4-fd34797ca29b</ObjectId>
+        <DisplayName>Erica Chew</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>eva@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>26e888c1-f27b-4a47-bda3-7843e853303d</ObjectId>
+        <DisplayName>Eva Campbell</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gpayan@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>dbabda14-5742-47f7-a6c6-be02a255779b</ObjectId>
+        <DisplayName>Gabriela Payan</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>grace@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>867397bc-ef44-4558-9ce8-0a65875ea248</ObjectId>
+        <DisplayName>Grace Lesniak</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>igarcia@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>e8085cf9-66fc-4f62-b63f-23ab1b1a0db4</ObjectId>
+        <DisplayName>Ivonne Garcia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jack@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>9fbd4ea4-4005-4da5-9116-84a5b34bbc60</ObjectId>
+        <DisplayName>Jack Dalton</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jeremy@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>88167075-6591-4d68-8601-2cb6218e1034</ObjectId>
+        <DisplayName>** Jeremy Breaux</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jessica@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>c2f408d6-66a7-4366-abf2-12dd4d8edc65</ObjectId>
+        <DisplayName>Jessica Tobin</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jmccaffrey@CERTIFIEDWASTESOLUTIONS.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>ac8be0bc-3e04-4fa8-9d2e-1716936932f7</ObjectId>
+        <DisplayName>Jeff MCCaffrey</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jordie@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>7ed8923d-1e2d-4585-8303-8ab33f0f78a8</ObjectId>
+        <DisplayName>Jordie Laffery</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jramas@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>4fc1c346-5106-443a-967a-32bbb1c9bba3</ObjectId>
+        <DisplayName>Jasmin Ramas</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jrobinson@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>6d6b21ab-8c81-497a-8a47-b98daf2aa978</ObjectId>
+        <DisplayName>Jacob Robinson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>justin@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>f3ab3cb7-ef57-4232-a42f-765778cda536</ObjectId>
+        <DisplayName>Justin Dalton</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>katie@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>8cfb37ca-9a4c-4622-9a38-ea0ed8cb3c82</ObjectId>
+        <DisplayName>** Katie Nieto</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>kelli@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>b356d8f5-26ae-4717-80fb-96b4ad492360</ObjectId>
+        <DisplayName>Kelli Groeger</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>krissy@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>ebef2ece-6bf0-4289-89c9-af2fb6896c9e</ObjectId>
+        <DisplayName>Krissy Bell</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lacey@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>0f385782-a0ab-4146-8963-8681f8a8af50</ObjectId>
+        <DisplayName>Lacey Bullington</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lahaigh@dcenv.com</UserPrincipalName>
+        <ObjectId>fb660ac4-292f-4576-920f-1d4c080f2c64</ObjectId>
+        <DisplayName>Lori Ann Haigh</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lballard@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>3befea02-775c-4080-a68b-5d87f2097a7e</ObjectId>
+        <DisplayName>Louis Ballard</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>leo@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>05018022-6211-468c-a481-14f3910c35a5</ObjectId>
+        <DisplayName>Leo Lovato</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>louie@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>573513b1-c142-40f6-a89c-34bd2ca38f24</ObjectId>
+        <DisplayName>Louie Castro</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lupe@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>9c61cec5-89b5-4630-8861-1e6be0be2fbc</ObjectId>
+        <DisplayName>Lupe Neri</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lwentzel@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>b4446acd-e40a-4073-87b4-1c6bf2bdadf4</ObjectId>
+        <DisplayName>Luther Wentzel</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>marian@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>d57d1b18-ea10-4340-b6ce-e1ae5473edb8</ObjectId>
+        <DisplayName>**Maria Nunez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>marina@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>c62eed2d-a80f-4079-b488-38d59805aec6</ObjectId>
+        <DisplayName>Marina Neri</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>MHuizar@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>ab8665e1-08c0-49de-b37b-99317164d9aa</ObjectId>
+        <DisplayName>Moises Huizar</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mlewis@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>f9e7f4bd-e23e-4802-aa6c-5a21dcb9f2c4</ObjectId>
+        <DisplayName>Monica Lewis</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Mmejia@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>b2d0e34c-c4df-44b0-90ae-13e5ee0434fa</ObjectId>
+        <DisplayName>Melissa Mejia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>msaluta@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>6c7d939e-e97b-4a81-9cae-7fd85dc165b4</ObjectId>
+        <DisplayName>Melanie Saluta</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nick@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>885b7236-e4bd-4101-a43b-22613131b0b2</ObjectId>
+        <DisplayName>Nick Rodriguez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>nnunez@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>e49934b2-7055-4e74-8086-b80db1a156d9</ObjectId>
+        <DisplayName>**Nancy Nunez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>paul@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>c9ee2b84-16aa-431a-aad5-4e516ab98a9a</ObjectId>
+        <DisplayName>Paul Toomey</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ppeconic@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>27cedfba-4360-4501-9e5b-4a346e7f5fa4</ObjectId>
+        <DisplayName>Patrick Peconic</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>qNguyen@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>630ecc61-ae61-476e-bfd0-66511d080a17</ObjectId>
+        <DisplayName>Quan Nguyen</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>receptionist@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>bf8ee990-8ec7-4e4a-bbad-ad45f09c8094</ObjectId>
+        <DisplayName>Receptionist User</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>RGaya@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>d171c0e0-98f6-4da0-a3bf-a4b408d755ce</ObjectId>
+        <DisplayName>Ryan Gaya</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rledesma@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>6e1bf5c3-8c53-4659-994a-556cf3c36c4d</ObjectId>
+        <DisplayName>Rosemarie Rembao-Ledesma</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Rocketcyber@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>d3408686-4594-4129-8047-ca62918ce220</ObjectId>
+        <DisplayName>Rocket Cyber</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Ron@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>149d1745-7215-4a60-9e32-44e43855a46a</ObjectId>
+        <DisplayName>Ron Rohrer</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rtapia@dcenv.com</UserPrincipalName>
+        <ObjectId>c94d64cf-8ad8-4a7a-ba9c-51340d20f7ea</ObjectId>
+        <DisplayName>** Rocio Tapia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>saraujo@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>06640097-c93d-4c98-880b-4445b406ed42</ObjectId>
+        <DisplayName>Sandra Araujo</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>scaswell@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>7e199737-19d5-49af-b66b-07085f1533c8</ObjectId>
+        <DisplayName>Shane Caswell</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>shaigh@dcenv.com</UserPrincipalName>
+        <ObjectId>a83bdebb-d03c-4cbe-8482-6eb10ef24c35</ObjectId>
+        <DisplayName>Scott Haigh</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>soviedo@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>4a7339f3-45c1-46f7-a642-ede0950e112b</ObjectId>
+        <DisplayName>** Sabrina Oviedo</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ssaluta@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>97a34d68-3db4-4fbb-af1b-5be940d700ff</ObjectId>
+        <DisplayName>Svetvana Saluta</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ssmith@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>57733a28-d575-4b35-b7d2-bc5a2f35578f</ObjectId>
+        <DisplayName>Scott Smith</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>SugarCRM@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>adbac7de-5ddf-4b38-9120-3a294acb014f</ObjectId>
+        <DisplayName>SugarCRM</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Vperez@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>13bd3cd9-d69c-47a0-a122-83fdc1058174</ObjectId>
+        <DisplayName>** Victoria Perez</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>vrios@CERTIFIEDWASTESOLUTIONS.COM</UserPrincipalName>
+        <ObjectId>a0b4086c-331b-4424-9d6f-aa6ca6a90169</ObjectId>
+        <DisplayName>**Valerie Rios</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>wendy@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>38d0b15a-4c5f-4093-b7bc-20b8d05a3fe0</ObjectId>
+        <DisplayName>Wendy Ludwig</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>wylie@certifiedwastesolutions.com</UserPrincipalName>
+        <ObjectId>c5508869-efad-4057-b287-c488884cdf1a</ObjectId>
+        <DisplayName>Tim Wylie</DisplayName>
+    </User>
+</ForensiTAzureID>
